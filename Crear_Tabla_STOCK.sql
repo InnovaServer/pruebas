@@ -9,6 +9,8 @@ GO
 SET ANSI_PADDING ON
 GO
 
+--Línea añadida (12)
+
 CREATE TABLE [dbo].[STOCK](
 	[IdArticulo] [int] NOT NULL,
 	[Lote] [varchar](50) NOT NULL,
