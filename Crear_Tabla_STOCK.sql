@@ -1,17 +1,6 @@
-
-/****** Object:  Table [dbo].[STOCK]    Script Date: 02/01/2018 12:24:05 ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
-
-SET ANSI_PADDING ON
-GO
-
---Línea añadida (12)
---Línea añadida (13)
---Línea añadida (14)
+/*
+TODO NUEVO
+*/
 
 CREATE TABLE [dbo].[STOCK](
 	[IdArticulo] [int] NOT NULL,
